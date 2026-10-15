@@ -1,0 +1,11 @@
+{
+  "org": "scikit-hep",
+  "repo": "uhi",
+  "versions": [
+    {
+      "commit": "2925a6d0ff4a3ea8525d9f6bd1477d71bc667c33",
+      "tag": "v1.2.1",
+      "parsed_at": "2026-10-15T20:17:46.674772+00:00"
+    }
+  ]
+}
