@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/scikit-hep/uhi/commit/2925a6d0ff4a3ea8525d9f6bd1477d71bc667c33",
       "git:hexsha": "2925a6d0ff4a3ea8525d9f6bd1477d71bc667c33",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.2.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.2.1",
+      "repolex:parsedAt": "2026-10-15T20:17:46.674230+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scikit-hep/uhi/commit/8a41327b33599343698a26920da1f16cc05668f5",
